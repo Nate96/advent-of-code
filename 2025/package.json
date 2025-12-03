@@ -1,0 +1,17 @@
+{
+  "name": "2025",
+  "version": "1.0.0",
+  "description": "Advent of Code 2025",
+  "keywords": [
+    "advent",
+    "of",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "Nate Braukhoff",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  }
+}
